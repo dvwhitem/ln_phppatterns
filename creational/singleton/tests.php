@@ -13,7 +13,11 @@
       
       $data -> setData( 'name', 'John D.' );
       
+      unset( $data );
+      
+      $data2 = Singleton::getInstance();
+      
       echo '<pre>';
-      print_r($data -> getData( 'name' ));
+      print_r($data2 -> getData( 'name' ));
       echo '</pre>';
 ?>
