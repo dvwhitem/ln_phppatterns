@@ -1,6 +1,6 @@
-PHP Patterns
+PHP Patterns (example)    
 ==============
 Creational
 
 ----------
-*[.singletin](https://github.com/dvwhitem/ln_phppatterns/blob/master/creational/singleton/singleton.php)
+* [.singleton](https://github.com/dvwhitem/ln_phppatterns/blob/master/creational/singleton/singleton.php)
