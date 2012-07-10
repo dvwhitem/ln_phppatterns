@@ -1,4 +1,4 @@
-PHP Patterns (example)    
+PHP Patterns (examples)    
 ==============
 Creational
 
