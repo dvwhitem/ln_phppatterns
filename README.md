@@ -12,4 +12,4 @@ Structural
 
 -----------
 
-* [composite] [https://github.com/dvwhitem/ln_phppatterns/tree/master/structural]
+* [composite] (https://github.com/dvwhitem/ln_phppatterns/tree/master/structural)
